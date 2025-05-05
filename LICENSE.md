@@ -4,6 +4,8 @@ In order to get any license under these terms, you must agree
 to them as both strict obligations and conditions to all
 your licenses.
 
+By copying, distributing or modifying the Software, you agree to these terms.
+
 ## Copyright License
 
 The licensor grants you a copyright license for the
@@ -132,4 +134,7 @@ software under these terms.
 **Use** means anything you do with the software requiring one
 of your licenses.
 
-
+**Software** refers to both parts of, and the whole source code
+(e.g. human-readable text files such as .scala .v .sv ..),
+as well as any digital objects automatically or manually derived from it.
+(e.g. "netlists", "bitstreams", "SystemVerilog" source code files, "FIRRTL" files, ..)
