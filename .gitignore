@@ -1,0 +1,5 @@
+.metals/
+slpp_all/
+build/
+.bsp/
+.scala-build/
